@@ -1,0 +1,18 @@
+# CCS / Eclipse
+.metadata/
+.settings/
+Debug/
+Release/
+*.out
+*.map
+*.obj
+*.d
+*.pp
+*.launch
+*.log
+*.bak
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
